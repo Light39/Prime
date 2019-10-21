@@ -13,7 +13,11 @@
         .Far{
             color:deepskyblue;
         }
-
+        p{
+            
+            font-size:18px;
+            font-family: cursive
+        }
     </style>
 
     <h1>
