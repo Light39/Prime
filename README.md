@@ -6,6 +6,15 @@
 </head>
 
 <body>
+    <style>
+        h1 {
+            color:greenyellow;
+        }
+        .Far{
+            color:deepskyblue;
+        }
+
+    </style>
 
     <h1>
 
@@ -38,13 +47,13 @@
         </label>
         <p>How strong is my brain?</p>
         <label>
-            <input type="checkbox" name="personality">Am Smart
+            <input type="checkbox" name="personality" checked>Am Smart
         </label>
         <label>
-            <input type="checkbox" name="personality">Am very Smart
+            <input type="checkbox" name="personality" checked>Am very Smart
         </label>
-        <label>
-            <input type="checkbox" name="personality">Am a Genius
+        <label class=Far>
+            <input type="checkbox" name="personality" checked>Am a Genius
         </label>
 </body>
 
